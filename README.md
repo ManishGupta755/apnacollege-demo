@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git reposetary
 <br>
-Author - Manish Gupta
+Author - Manish (Manish)
